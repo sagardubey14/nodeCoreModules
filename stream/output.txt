@@ -1,0 +1,2 @@
+Hello, world from Writable Stream!
+This is a test write.
